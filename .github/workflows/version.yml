@@ -1,0 +1,14 @@
+name: version
+on: [push, pull_request]
+
+jobs:
+  version:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Use Code Climate
+        uses: remarkablemark/setup-codeclimate@v1
+        with:
+          codeclimate-version: 0.11.1
+
+      - name: Check version
+        run: cc-test-reporter --version
