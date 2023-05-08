@@ -9,7 +9,12 @@ Code Climate GitHub Actions [workflow](.github/workflows) examples using [`remar
 
 | Workflow | Badge |
 | --- | --- |
+| [cli-name](.github/workflows/cli-name.yml) | [![cli-name](https://github.com/remarkablemark/codeclimate-github-actions-examples/actions/workflows/cli-name.yml/badge.svg)](https://github.com/remarkablemark/codeclimate-github-actions-examples/actions/workflows/cli-name.yml) |
 | [javascript](.github/workflows/javascript.yml) | [![javascript](https://github.com/remarkablemark/codeclimate-github-actions-examples/actions/workflows/javascript.yml/badge.svg)](https://github.com/remarkablemark/codeclimate-github-actions-examples/actions/workflows/javascript.yml) |
+| [linux](.github/workflows/linux.yml) | [![linux](https://github.com/remarkablemark/codeclimate-github-actions-examples/actions/workflows/linux.yml/badge.svg)](https://github.com/remarkablemark/codeclimate-github-actions-examples/actions/workflows/linux.yml) |
+| [macos](.github/workflows/macos.yml) | [![macos](https://github.com/remarkablemark/codeclimate-github-actions-examples/actions/workflows/macos.yml/badge.svg)](https://github.com/remarkablemark/codeclimate-github-actions-examples/actions/workflows/macos.yml) |
+| [version](.github/workflows/version.yml) | [![version](https://github.com/remarkablemark/codeclimate-github-actions-examples/actions/workflows/version.yml/badge.svg)](https://github.com/remarkablemark/codeclimate-github-actions-examples/actions/workflows/version.yml) |
+| [windows](.github/workflows/windows.yml) | [![windows](https://github.com/remarkablemark/codeclimate-github-actions-examples/actions/workflows/windows.yml/badge.svg)](https://github.com/remarkablemark/codeclimate-github-actions-examples/actions/workflows/windows.yml) |
 
 <!-- prettier-ignore-end -->
 
