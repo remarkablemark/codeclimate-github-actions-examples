@@ -12,9 +12,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Change directory
-        run: cd javascript
-
       - name: Install dependencies
         run: npm install
 
