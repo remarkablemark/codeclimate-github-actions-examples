@@ -3,6 +3,6 @@
     "test": "jest --ci --colors --coverage"
   },
   "devDependencies": {
-    "jest": "^29.6.0"
+    "jest": "^29.6.1"
   }
 }
