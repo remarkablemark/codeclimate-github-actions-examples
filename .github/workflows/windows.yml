@@ -6,7 +6,7 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: Use Code Climate
-        uses: remarkablemark/setup-codeclimate@v1
+        uses: remarkablemark/setup-codeclimate@v2
 
       - name: Get binary
         run: command -v cc-test-reporter
